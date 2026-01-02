@@ -35,7 +35,7 @@ Static resources such as images are served automatically from the `static` direc
 
 ## Project Structure
 
-```text
+```
 src/main/
 ├── java/pl/edu/vistula/
 │   ├── Task1Application.java
@@ -48,7 +48,7 @@ src/main/
     ├── templates/
     │   └── greeting.html
     └── application.properties
-
+```
 Use Cases
 Use Case 1: Plain Text Response (@ResponseBody)
 
