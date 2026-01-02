@@ -97,4 +97,4 @@ The application follows the MVC pattern:
 - Model transfers data from the controller to the view.
 - View (Thymeleaf template) renders dynamic HTML based on model attributes.
 
-This separation of concerns improves code readability and maintainability.
+This project demonstrates the MVC pattern in a Spring Boot application.
