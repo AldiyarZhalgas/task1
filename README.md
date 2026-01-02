@@ -60,7 +60,7 @@ The application returns a simple text response directly in the browser.
 - Endpoint: /
 - Response:
 Hello Vistula, my first Spring controller!
-screenshots/usecase1_root.png
+C:\Users\aldiy\IdeaProjects\task1\screenshots\usecase1_root.png
 
 Use Case 2: MVC Page with Thymeleaf
 
