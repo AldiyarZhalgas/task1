@@ -60,7 +60,8 @@ The application returns a simple text response directly in the browser.
 - Endpoint: /
 - Response:
 Hello Vistula, my first Spring controller!
-C:\Users\aldiy\IdeaProjects\task1\screenshots\usecase1_root.png
+![Use Case 1 – Root endpoint](screenshots/usecase1_root.png)
+
 
 Use Case 2: MVC Page with Thymeleaf
 
@@ -72,8 +73,8 @@ The controller passes data to the view using the Model object,
 and the page displays a personalized greeting message.
 
 - HTTP Method: GET
-- Endpoint: /greeting
-screenshots/usecase2_greeting.png
+- Endpoint:![Use Case 2 – Greeting page](screenshots/usecase2_greeting.png)
+
 
 How to Run the Application
 
